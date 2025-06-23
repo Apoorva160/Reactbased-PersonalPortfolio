@@ -18,5 +18,9 @@ This site is a reflection of my journey as a frontend developer — combining cr
 - React Router
 - FontAwesome Icons
 
+## Live Link
+
+Click here to view the live site : https://personal-portfolio-1104.netlify.app/
+
 
 
